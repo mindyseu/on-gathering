@@ -180,15 +180,17 @@ blockquote {
 -------------------------------------------------- */
 
 @media screen and (max-width: 650px) {
-  .no-mobile {
-    display: none;
-  }
-  .mobile {
-    display: block;
+  html,
+  body, 
+  p,
+  .h1 {
+    font-size: 12px;
+    line-height: 1.1;
   }
 
-  .quarter {
-    width: 49%;
+  .row {
+    grid-template-columns: 26px auto;
   }
+  
 } 
 
