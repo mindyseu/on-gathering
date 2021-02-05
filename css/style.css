@@ -107,6 +107,10 @@ a:hover {
 
 /* COLOR
 -------------------------------------------------- */
+.blank {
+  color: white;
+}
+
 .today,
 #more {
   background: yellow;
