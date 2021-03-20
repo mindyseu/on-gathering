@@ -108,7 +108,7 @@ a:hover {
 /* COLOR
 -------------------------------------------------- */
 .blank {
-  color: yellow;
+  color: yellow !important;
 }
 
 .today,
