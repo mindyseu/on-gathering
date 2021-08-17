@@ -42,8 +42,16 @@ p,
   /* border-left: 1px solid black; */
 }
 
+.left + .home{
+  background: yellow;
+}
+
 .right {
   width: 50vw;
+}
+
+.home {
+  padding: 10px 10px 10px 10px;
 }
 
 .left, 
