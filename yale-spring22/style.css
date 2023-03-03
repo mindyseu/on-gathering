@@ -98,12 +98,20 @@ a:hover {
   grid-template-columns: 36px auto;
 }
 
+img {
+  width: 100%;
+}
+
 .section {
   padding: 10px 40px 10px 10px;
   border-top: 1px solid black;
 }
 
-#syllabus {
+/* #syllabus {
+  border-top: 0px;
+} */
+
+#footer {
   border-top: 0px;
 }
 
